@@ -1,4 +1,4 @@
-# Monitoring Human Dipole Balance Through Wearable Devices and Applications
+# Monitoring Human Dipole Balance Through Wearable Devices and Applications(MHDB)
 
 ## Overview
 This project explores the development of advanced mobile gadgets and applications for non-invasive monitoring of the body's electrical dipole activities. These devices offer real-time insights into an individual's physiological state, aiding in health monitoring, disease prevention, and personalized medicine.
