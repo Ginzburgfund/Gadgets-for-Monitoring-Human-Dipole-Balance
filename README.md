@@ -61,8 +61,6 @@ Design and develop a wearable gadget that monitors the body's electrical dipole 
 - **Phase 3 (7-9 months):** Testing, validation, and regulatory approvals.
 - **Phase 4 (10-12 months):** Final design and mass production preparation.
 
-## Contact & Collaboration:
-For collaboration, project updates, and inquiries, please feel free to reach out through our repository or contact the development team via email.
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
